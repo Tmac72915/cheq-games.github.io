@@ -464,3 +464,38 @@ Small Device Styles
   color:red;
  
 }
+
+#prog{
+  
+}
+#prog:hover{
+  text-decoration:underline;
+}
+
+#des{
+ 
+}
+#des:hover{
+  text-decoration:underline;
+}
+
+#story{
+  
+}
+#story:hover{
+  text-decoration:underline;
+}
+
+#audio{
+  
+}
+#audio:hover{
+  text-decoration:underline;
+}
+
+#staff{
+  
+}
+#staff:hover{
+  text-decoration:underline;
+}
